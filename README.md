@@ -22,7 +22,7 @@ This project is a home page of Rode Microphones Website. In this project, I lear
 
 &nbsp;
 
-also this page is not mobile responsive cause I am learning the execution of code, I want to inculcate the basics first.   
+also this page is mobile responsive so, I can learn the execution of code, I want to inculcate the basics first.   
 &nbsp;
 
 
